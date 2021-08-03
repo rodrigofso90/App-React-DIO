@@ -1,2 +1,2 @@
-# Appp-React-DIO
+# App-React-DIO
 Inferface de App de tarefas desenvolvido em React
